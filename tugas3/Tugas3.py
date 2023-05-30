@@ -1,7 +1,3 @@
-#Nama    : Lala 'Adilah
-#NIM     : 210511117
-#Kelas   : R3/TI21C
-
 import pygame
 from tkinter import *
 
